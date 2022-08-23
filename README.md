@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Santi707
+- 👋 Hi, I’m Santiago Barcenas
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning the Google data analytics certificate
 - 💞️ I’m looking to collaborate on data analysis projects
